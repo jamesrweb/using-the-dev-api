@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c5ffedda1f2bce12bcffcb1dd3ab7305",
+    "content-hash": "abb6ebe33cbb979ad3a0d50b308f9c90",
     "packages": [
         {
             "name": "mikecao/flight",
-            "version": "v1.3.7",
+            "version": "v1.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mikecao/flight.git",
-                "reference": "7d5970f7617861c868a5c728764421d8950faaf0"
+                "reference": "b3120f8db2ae3b358c1c7a412a92d7aa008a57b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mikecao/flight/zipball/7d5970f7617861c868a5c728764421d8950faaf0",
-                "reference": "7d5970f7617861c868a5c728764421d8950faaf0",
+                "url": "https://api.github.com/repos/mikecao/flight/zipball/b3120f8db2ae3b358c1c7a412a92d7aa008a57b4",
+                "reference": "b3120f8db2ae3b358c1c7a412a92d7aa008a57b4",
                 "shasum": ""
             },
             "require": {
@@ -47,7 +47,7 @@
             ],
             "description": "Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.",
             "homepage": "http://flightphp.com",
-            "time": "2018-11-23T23:05:33+00:00"
+            "time": "2020-01-23T05:33:11+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
